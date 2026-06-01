@@ -1,4 +1,4 @@
-# autopsy-qa-automation
+# autopsy-forensic-qa
 
 ## 프로젝트 개요
 실제 NIST 공개 포렌식 이미지(SCHARDT)를 Autopsy로 분석하고,
