@@ -14,6 +14,7 @@
 - NIST CFReDS Hacking Case (SCHARDT 디스크 이미지)
 
 ## 프로젝트 구조
+'''
 forensic-qa-advanced/
 ├── tests/
 │   └── test_hash_verification.py  ← Autopsy 교차 검증 테스트
@@ -23,6 +24,7 @@ forensic-qa-advanced/
 │   └── TC_metadata.md             ← 메타데이터 TC 문서
 ├── autopsy_results/               ← Autopsy 분석 스크린샷
 └── reports/                       ← 테스트 결과 리포트
+'''
 
 ## 테스트 데이터
 - **NIST CFReDS Hacking Case** - 2004년 실제 해킹 수사 케이스
